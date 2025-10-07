@@ -49,10 +49,13 @@ Publish the website in the given URL.
 </head>
 <body>
 
-<img class="clickable-image" src="Marvel1.jpg" alt="Image 1" />
-<img class="clickable-image" src="Marvel2.jpg" alt="Image 2" />
-<img class="clickable-image" src="Marvel3.jpg" alt="Image 3" />
-<img class="clickable-image" src="Marvel4.jpg" alt="Image 4" />
+<img class="clickable-image" src="iron-man-2.jpg" alt="Image 1" />
+<img class="clickable-image" src="spidey.jpg" alt="Image 2" />
+<img class="clickable-image" src="iron-man-vilot.jpg" alt="Image 3" />
+<img class="clickable-image" src="venom.jpg" alt="Image 4" />
+<img class="clickable-image" src="iron-man.jpg" alt="Image 4" />
+<img class="clickable-image" src="super-man.jpg" alt="Image 4" />
+<img class="clickable-image" src="Thor.jpg" alt="Image 4" />
 
 <script>
   const images = document.querySelectorAll('.clickable-image');
@@ -68,6 +71,6 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![alt text](<Screenshot (34).png>)
+![alt text](image.png)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
